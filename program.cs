@@ -7,7 +7,6 @@ using System.Data.SqlClient;
 
 namespace SQLi_1
 {
-    
     class Program
     {
         static void Main(string[] args)
@@ -26,10 +25,10 @@ namespace SQLi_1
             
         }
 
-        private static  string Encrypt(string plain)
-        {
-            return plain;
-        }
+        //private static  string Encrypt(string plain)
+        //{
+        //    return plain;
+        //}
 
         private static void Login(string username,string password)
         {
