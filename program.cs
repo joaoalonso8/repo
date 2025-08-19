@@ -7,7 +7,6 @@ using System.Data.SqlClient;
 
 namespace SQLi_1
 {
-    
     class Program
     {
         static void Main(string[] args)
