@@ -25,10 +25,10 @@ namespace SQLi_1
             
         }
 
-        private static  string Encrypt(string plain)
-        {
-            return plain;
-        }
+        //private static  string Encrypt(string plain)
+        //{
+        //    return plain;
+        //}
 
         private static void Login(string username,string password)
         {
