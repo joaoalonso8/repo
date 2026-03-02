@@ -5,9 +5,11 @@ import mysql.connector as sql
 access_key = 'testpassword'
 access_key_id = 'fakeID123456789'
 
+
 # root
 user_input = input('Enter command: ')
 os.system(user_input)
+
 
 # infinite loop
 while true:
